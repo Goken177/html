@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(139, 114, 163);
+    color: rgb(255, 255, 255);
+}
+h1{
+    background-color: rgb(151, 151, 151);
+    color: rgb(243, 243, 243);
+} 
+h2{background-color: black;
+    color: azure;
+
+}
+strong{ 
+    font-size: 60px;
+    font-weight: 100;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(240, 240, 240);
+
+}
+a{
+    color: black;
+    font-size: smaller;
+    background-color: rgb(181, 236, 190);
+
+
+}
+
+
